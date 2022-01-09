@@ -1,0 +1,6 @@
+map_name: New_World_Order_Variants
+games:
+- {game_name: New World Order Variant - Neutrals Unassigned, file_name: NWO Variant - Neutrals Unassigned.xml}
+- {game_name: New World Order Variant - Neutrals Assigned, file_name: NWO Variant - Neutrals Assigned.xml}
+- {game_name: New World Order Variant - Neutrals Unrestricted, file_name: NWO Variant - Neutrals Unrestricted.xml}
+version: 0
