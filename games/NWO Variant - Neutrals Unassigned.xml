@@ -3,7 +3,7 @@
 <!DOCTYPE game SYSTEM "game.dtd">
 
 <game>
-<info name="New World Order Variant - Neutrals" version="1.0"/>
+<info name="New World Order Variant - Neutrals Unassigned" version="1.0"/>
 
 <loader javaClass="games.strategy.triplea.TripleA"/>
 
@@ -3462,7 +3462,7 @@
 
 
 <!-- Map Name: also used for map utils when asked -->
-<property name="mapName" value="New_World_Order_Variants" editable="false"/>
+<property name="mapName" value="New_World_Order_Variants-Neutrals" editable="false"/>
 
 <property name="notes" value=
 "
